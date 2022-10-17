@@ -1,13 +1,13 @@
-#Программа для сравнивания zip архивов
+#A script for comparing zip archives
 
-## Технологии
-Использованы только стандартные библиотеки Python 3.7.9
+## Technologies
+Only standard Python 3.7.9 libraries are used
 
-##Описание:
+## Description:
 
-Для сравнения двух zip архивов запустите скрипт zip_difference.py (можно в консоли).
-Введите полный путь до первого и второго zip-файла через энтер.
-В консоли будет выведен сравнительный анализ двух файлов:
-Сначала идентичные файлы и папки, затем уникальные из первого файла и уникальные из второго.
+To compare two zip archives, run the script zip_difference.py (available in the console).
+Enter the full path to the first and second zip file via enter.
+The console will display a comparative analysis of two files:
+First identical files and folders, then unique from the first file and unique from the second.
 
-###Автор Павел Калинин
+###Author __Pavel Kalinin__
